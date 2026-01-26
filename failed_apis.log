@@ -15825,3 +15825,9 @@
 [2026-01-17 01:04:41] https://suoniapi.com/api.php/provide/vod/?ac=list - 
 [2026-01-19 01:11:33] http://cj.xinlangzy.com/api.php/provide/vod - Status 403
 [2026-01-21 01:08:54] https://zy.sh0o.cn/api.php/provide/vod - Cannot connect to host zy.sh0o.cn:443 ssl:default [Connect call failed ('210.16.163.56', 443)]
+[2026-01-26 01:13:27] https://api.ukuapi88.com/api.php/provide/vod - Status 502
+[2026-01-26 01:13:28] https://api.ukuapi.com/api.php/provide/vod - Status 502
+[2026-01-26 01:13:28] https://api.ukuapi88.com/api.php/provide/vod/?ac=list - Status 502
+[2026-01-26 01:13:28] https://api.ukuapi.com/api.php/provide/vod/ - Status 502
+[2026-01-26 01:13:32] https://cj.huohua.live/api.php/provide/vod - 
+[2026-01-26 01:13:32] http://www.madouse.la/api.php/provide/vod/ - 

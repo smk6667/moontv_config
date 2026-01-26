@@ -99,45 +99,18 @@
       "detail": ""
     },
     "21": {
-      "api": "http://www.madouse.la/api.php/provide/vod/",
-      "name": "麻豆视频|AV"
-    },
-    "22": {
-      "name": "火花官采收费影视资源站采集接口",
-      "api": "https://cj.huohua.live/api.php/provide/vod"
-    },
-    "23": {
       "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/",
       "name": "建安资源站"
     },
-    "24": {
-      "api": "https://api.ukuapi.com/api.php/provide/vod",
-      "name": "U酷资源",
-      "detail": "https://api.ukuapi.com"
-    },
-    "25": {
-      "name": "🎬U酷影视",
-      "api": "https://api.ukuapi88.com/api.php/provide/vod",
-      "detail": "https://www.ukuzy.com"
-    },
-    "26": {
-      "api": "https://api.ukuapi.com/api.php/provide/vod/",
-      "name": "U酷|点播"
-    },
-    "27": {
+    "22": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "name": "非凡影视",
       "detail": "http://ffzy5.tv"
     },
-    "28": {
+    "23": {
       "name": "🎬建安资源",
       "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
       "detail": "http://154.219.117.232:9981"
-    },
-    "29": {
-      "name": "U酷资源网",
-      "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
-      "detail": ""
     }
   },
   "custom_category": [
