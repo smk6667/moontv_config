@@ -7,87 +7,82 @@
       "detail": "https://wujinzy.net"
     },
     "2": {
-      "name": "索尼资源",
-      "api": "https://suoniapi.com/api.php/provide/vod",
-      "detail": ""
-    },
-    "3": {
       "name": "快车资源阿",
       "api": "https://caiji.kuaichezy.org/api.php/provide",
       "detail": "https://kuaichezy.com"
     },
-    "4": {
+    "3": {
       "api": "https://www.gdlsp.com/api/json.php",
       "name": "AV-香奶儿资源",
       "detail": "https://www.gdlsp.com"
     },
-    "5": {
+    "4": {
       "name": "TV-wujinapi无尽",
       "api": "https://api.wujinapi.cc/api.php/provide/vod",
       "detail": ""
     },
-    "6": {
+    "5": {
       "api": "https://www.qilinzyz.com/api.php/provide/vod",
       "name": "TV-麒麟资源",
       "detail": "https://www.qilinzyz.com/"
     },
-    "7": {
+    "6": {
       "name": "TV-无尽资源",
       "api": "https://api.wujinapi.net/api.php/provide/vod",
       "detail": ""
     },
-    "8": {
+    "7": {
       "name": "TV-旺旺资源",
       "api": "https://api.wwzy.tv/api.php/provide/vod",
       "detail": "https://api.wwzy.tv"
     },
-    "9": {
+    "8": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
-    "10": {
+    "9": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "TV-如意资源",
       "detail": "https://www.ryzyw.com",
       "is_adult": false
     },
-    "11": {
+    "10": {
       "name": "麒麟资源站全站采集接口",
       "api": "http://www.qilinzyz.com/api.php/provide/vod"
     },
-    "12": {
+    "11": {
       "name": "🎬旺旺短剧",
       "api": "https://wwzy.tv/api.php/provide/vod",
       "detail": "https://wwzy.tv"
     },
-    "13": {
+    "12": {
       "api": "https://api.wwzy.tv/api.php/provide/vod/",
       "name": "旺旺|点播"
     },
-    "14": {
+    "13": {
       "api": "https://api.wujinapi.com/api.php/provide/vod/",
       "name": "无尽|点播"
     },
-    "15": {
+    "14": {
       "name": "旺旺短剧",
       "api": "https://www.wwzy.tv/api.php/provide/vod",
       "detail": "https://www.wwzy.tv"
     },
-    "16": {
+    "15": {
       "name": "TV-茶杯狐",
       "api": "http://caihy.zone.id/%E8%8C%B6%E6%9D%AF%E7%8B%90.php?filter=true",
       "detail": ""
     },
-    "17": {
+    "16": {
       "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/",
       "name": "建安资源站"
     },
-    "18": {
+    "17": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "name": "非凡影视",
       "detail": "http://ffzy5.tv"
     },
-    "19": {
+    "18": {
       "name": "🎬建安资源",
       "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
       "detail": "http://154.219.117.232:9981"
