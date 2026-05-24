@@ -12,33 +12,19 @@
       "detail": "https://kuaichezy.com"
     },
     "3": {
-      "name": "TV-wujinapi无尽",
-      "api": "https://api.wujinapi.cc/api.php/provide/vod",
-      "detail": ""
-    },
-    "4": {
       "api": "https://www.qilinzyz.com/api.php/provide/vod",
       "name": "TV-麒麟资源",
       "detail": "https://www.qilinzyz.com/"
     },
-    "5": {
-      "name": "TV-无尽资源",
-      "api": "https://api.wujinapi.net/api.php/provide/vod",
-      "detail": ""
-    },
-    "6": {
+    "4": {
       "name": "麒麟资源站全站采集接口",
       "api": "http://www.qilinzyz.com/api.php/provide/vod"
     },
-    "7": {
-      "api": "https://api.wujinapi.com/api.php/provide/vod/",
-      "name": "无尽|点播"
-    },
-    "8": {
+    "5": {
       "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/",
       "name": "建安资源站"
     },
-    "9": {
+    "6": {
       "name": "🎬建安资源",
       "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
       "detail": "http://154.219.117.232:9981"
